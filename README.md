@@ -1,0 +1,2 @@
+# Pyinsatller
+For practicing pyinstaller

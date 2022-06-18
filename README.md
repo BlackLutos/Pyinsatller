@@ -6,7 +6,7 @@ For practicing pyinstaller
 $ pip install pyinstaller
 ```
 
-* Building Package
+* Building Package on the envirovent which you want to execute
 ```
 $ pyinstaller -F ${file}.py
 ```
